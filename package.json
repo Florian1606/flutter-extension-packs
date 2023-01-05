@@ -1,0 +1,22 @@
+{
+  "name": "flutter-extension-packs",
+  "displayName": "flutter extension packs",
+  "description": "flutter usefull extentions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "Dart-Code.dart-code", 
+    "Dart-Code.flutter", 
+    "dracula-theme.theme-dracula", 
+    "jeroen-meijer.pubspec-assist", 
+    "k--kato.intellij-idea-keybindings", 
+    "naumovs.color-highlight", 
+    "oderwat.indent-rainbow", 
+    "usernamehw.errorlens"
+  ]
+}
